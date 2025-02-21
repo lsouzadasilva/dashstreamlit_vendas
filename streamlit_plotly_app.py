@@ -5,7 +5,7 @@ import plotly.express as px
 # --- Pagina config --- 
 ANO = 2023
 CIDADE = ["Tokyo", "Yokohama", "Osaka"]
-DATA_URL = "https://raw.githubusercontent.com/Sven-Bo/datasets/master/store_sales_2022-2023.csv"
+DATA_URL = "https://raw.githubusercontent.com/lsouzadasilva/datasets/main/store_sales_2022-2023.csv"
 
 
 st.set_page_config(page_title='Sales Dashboad', page_icon="📈")
