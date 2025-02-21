@@ -8,7 +8,7 @@ CIDADE = ["Tokyo", "Yokohama", "Osaka"]
 DATA_URL = "https://raw.githubusercontent.com/lsouzadasilva/datasets/main/store_sales_2022-2023.csv"
 
 
-st.set_page_config(page_title='Relatório de venda', page_icon="📈📉📊💵")
+st.set_page_config(page_title='Relatório de venda', page_icon="💵")
 st.title("Relatorio de Vendas")
 
 # --- Ocult menus ---
