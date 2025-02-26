@@ -127,8 +127,8 @@ with tab_linha_tendencia:
 
     # Exibição com barra de progresso
     fig4 = st.dataframe(
-        hide_index=True,
         filtro_linha_tendencia,
+        hide_index=True,
         column_config={
             "sales_amount": st.column_config.ProgressColumn(
                 "sales_amount", format="$%.2f", min_value=0, max_value=max_sales
