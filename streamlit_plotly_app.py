@@ -9,7 +9,7 @@ DATA_URL = "https://raw.githubusercontent.com/lsouzadasilva/datasets/main/store_
 
 
 st.set_page_config(page_title='Relatório de venda', page_icon="💵")
-st.markdown("<h1 style='text-align: center; color: #4B8BBE;'>Relatorio de vendas 🏷️</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: #FFFFFF;'>Relatorio de vendas 🏷️</h1>", unsafe_allow_html=True)
 st.divider()
 
 # --- Ocult menus ---
