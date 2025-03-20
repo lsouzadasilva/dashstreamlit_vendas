@@ -9,7 +9,8 @@ DATA_URL = "https://raw.githubusercontent.com/lsouzadasilva/datasets/main/store_
 
 
 st.set_page_config(page_title='Relatório de venda', page_icon="💵")
-st.markdown("<h1 style='text-align: center; color: #4B8BBE;'>Relatorio de vendas 🏷️</h1>", unsafe_allow_html=True)
+st.title("Relatorio de vendas 🏷️")
+# st.markdown("<h1 style='text-align: center; color: #4B8BBE;'>Relatorio de vendas 🏷️</h1>", unsafe_allow_html=True)
 st.markdown("""
     **Desenvolvido por Leandro Souza**  
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-souza-bi/)
